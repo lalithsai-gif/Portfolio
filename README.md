@@ -14,8 +14,8 @@
 
 ### 💻 Technical Skill Set
 
-*   **Programming & Frameworks:** Python, Streamlit, HTML5, CSS3, JavaScript, Tailwind CSS
-*   **AI, ML & Computer Vision:** Intel OpenVINO, Neural Networks, Predictive Modeling, Facial Recognition (Dlib), Voice Verification (Resemblyzer)
+*   **Programming & Frameworks:** Python, Streamlit, HTML5, CSS3, JavaScript, Java , C++ 
+*   **AI, ML & Computer Vision:** ML , DL , Neural Networks, Predictive Modeling, Facial Recognition (Dlib), Voice Verification (Resemblyzer)
 *   **Databases & Cloud Infrastructure:** Supabase, PostgreSQL, Git & GitHub
 
 ---
@@ -23,7 +23,7 @@
 ### 🏆 Featured Achievements & Experience
 
 *   **Top 10 Finalist @ IIIT Hyderabad Megathon X**  
-    *Led a developer team to a Top 10 National Finish in the Intel OpenVINO track at Hyderabad's largest student hackathon, architecture-optimizing neural networks under 24-hour constraints.*
+    *Led my team OpenVino to a Top 10 National Finish in the Bhasini problem track at Hyderabad's largest student hackathon, architecture-optimizing neural networks under 24-hour constraints.*
 *   **AI Engineering Intern | Edunet Foundation & IBM SkillsBuild**  
     *Built and successfully deployed **SnapClass AI**, a full-stack biometric attendance management application integrating multi-layered face recognition and voice verification pipelines with cloud database architectures.*
 *   **Data Science Intern | Oasis Infobyte**  
