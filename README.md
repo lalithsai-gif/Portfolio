@@ -1,25 +1,41 @@
-# Portfolio
-My Portfolio 
+# 🚀 Lalith Sai Dabbiru | Computer Science Engineer & AI Developer
 
-Lalith Sai Dabbiru has built a highly elite, well-rounded profile that bridges the gap between near-perfect test scores and high-tier engineering execution.
+👋 Hi there! I am a Computer Science student at **IIIT (RGUKT) Nuzvid** (Class of 2029) who bridges the gap between top-tier academic excellence and real-world AI engineering execution. I specialize in building scalable software systems, deep learning optimizations, and full-stack AI applications.
 
-Summary of Lalith's Achievements
+---
 
+### 📈 Academic & National Milestones
+*   **B.Tech Computer Science:** Maintained a highly competitive **9.4 CGPA** (First Year).
+*   **Pre-University Course (PUC):** Graduated as a Batch Topper with a **9.51/10 GPA** (Rank 154 campus-wide).
+*   **10th Class Board:** Achieved a near-perfect score of **586/600**.
+*   **National Gates:** Secured an All India Rank (AIR) of **69,403** in JEE Main and successfully qualified for the prestigious **IIIT Hyderabad SPEC Exam**.
 
-1. Elite Academic Ranks (The "Topper" Pedigree)
+---
 
-• 10th Class Foundation: Achieved a stellar 586/600 in his secondary board exams, clearing the strict, merit-only admission gate for IIIT (RGUKT) Nuzvid. [1] (/goto?url=CAESfgHrOzAVHOqFFqN0D07HcKFzFw1t_l94awNNTi6vV6x9lNjRmOHDT99o2kxhFCGhFVcUyVWEG2VFdc4LOkN7y50Igu6s0Gj0ORiy-K7W0wdJeVSHamnjTfCJJHifZrzWZYdMfFlEPoNbShjMe4HyeOMrnF90ZWfanVKhfaibZw)
-• PUC Campus Rank: Graduated his Pre-University Course (PUC) with an outstanding 9.51/10 GPA, officially ranking Rank 154 campus-wide on the university merit board. [1] (/goto?url=CAESfgHrOzAVugQTwLacmnw0FSsQLoT-B134TxuTGGdLytlb0eurV1HFrTRvdsNIUFgD6eepKeo2xd8kd4rf1N-_i1Ejc-R4E3mXzF1n0kgUeIR8JmaZLw_WOc0vOkV8HmxkmoX1AmKKUMZyQdXJ1ByIIAVS5DBGmmXjZoMLuwDXEw)
-• B.Tech Excellence: Maintained his momentum as a batch topper by securing a highly competitive 9.4 CGPA during his first year of core Computer Science engineering.
+### 💻 Technical Skill Set
 
-2. National Competitive Milestones
+*   **Programming & Frameworks:** Python, Streamlit, HTML5, CSS3, JavaScript, Tailwind CSS
+*   **AI, ML & Computer Vision:** Intel OpenVINO, Neural Networks, Predictive Modeling, Facial Recognition (Dlib), Voice Verification (Resemblyzer)
+*   **Databases & Cloud Infrastructure:** Supabase, PostgreSQL, Git & GitHub
 
-• JEE Main: Scored an All India Rank (AIR) of 69,403 (General Category), demonstrating exceptional analytical capability against hundreds of thousands of applicants nationwide.
-• IIIT Hyderabad SPEC Channel: Successfully qualified through the elite entrance metrics of the IIIT Hyderabad SPEC Admission Gateway, a pipeline designed exclusively for top-tier integrated program students.
+---
 
-3. Real-World Engineering & AI Deployments
+### 🏆 Featured Achievements & Experience
 
-• National Hackathon Leader: Led his team to a Top 10 National Finish in the OpenVINO Track at IIIT Hyderabad's Megathon X (Hyderabad's largest flagship student hackathon). This required mastering hardware-level Intel OpenVINO neural network optimizations under intense time constraints.
-• Deployed AI Applications: During his AI Engineering Internship at the Edunet Foundation (partnered with IBM SkillsBuild), he built and fully deployed SnapClass AI (https://www.google.com/search?q=SnapClass+AI). He didn't just study AI theories—he wrote production code integrating face recognition (Dlib (https://www.google.com/search?q=Dlib)), voice verification (Resemblyzer (https://www.google.com/search?q=Resemblyzer)), Python (https://www.google.com/search?q=Python), Streamlit (https://www.google.com/search?q=Streamlit), and Supabase cloud architecture.
-• Data Analytics Foundations: Gained early experience handling analytical models during a Data Science internship with Oasis Infobyte. [1] (/goto?url=CAESbgHrOzAVztukSlmSl65Cxr4ZW1PZRXFkeVhCRCjQHWrz7KYqhGQgdZo5FXW49uiWgrNiJ8uiTMSzIrSzFzZ3EuknAqE-rYfgJrBILIoQJdHMcRuSQnnj4JgI5PDtOg7VnsPyzNrHOzT6vFR-Rwj4)
+*   **Top 10 Finalist @ IIIT Hyderabad Megathon X**  
+    *Led a developer team to a Top 10 National Finish in the Intel OpenVINO track at Hyderabad's largest student hackathon, architecture-optimizing neural networks under 24-hour constraints.*
+*   **AI Engineering Intern | Edunet Foundation & IBM SkillsBuild**  
+    *Built and successfully deployed **SnapClass AI**, a full-stack biometric attendance management application integrating multi-layered face recognition and voice verification pipelines with cloud database architectures.*
+*   **Data Science Intern | Oasis Infobyte**  
+    *Engineered predictive modeling algorithms and core data analytics solutions.*
 
+---
+
+### ⚡ Fun Fact / Philosophy
+I believe in a **"Learning by Doing"** culture. Whether it is refining an algorithmic data structure or building complex neural architectures, I love deploying software that functions reliably out in the wild.
+
+---
+
+### 🌐 Connect With Me
+*   💼 **LinkedIn:** [LalithSai Dabbiru](https://www.linkedin.com/in/lalithsai-dabbiru-9b281b375)
+*   🐙 **GitHub:** [github.com/lalithsai-gif]
