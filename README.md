@@ -38,4 +38,4 @@ I believe in a **"Learning by Doing"** culture. Whether it is refining an algori
 
 ### 🌐 Connect With Me
 *   💼 **LinkedIn:** [LalithSai Dabbiru](https://www.linkedin.com/in/lalithsai-dabbiru-9b281b375)
-*   🐙 **GitHub:** [github.com/lalithsai-gif]
+*   🐙 **GitHub:** [Github](github.com/lalithsai-gif)
