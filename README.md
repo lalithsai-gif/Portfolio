@@ -1,9 +1,5 @@
 # 🚀 Lalith Sai Dabbiru | Computer Science Engineer & AI Developer
 
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
-
 👋 Hi there! I am a Computer Science student at **IIIT (RGUKT) Nuzvid** (Class of 2029) who bridges the gap between top-tier academic excellence and real-world AI engineering execution. I specialize in building scalable software systems, deep learning optimizations, and full-stack AI applications.
 
 ---
@@ -18,12 +14,9 @@
 
 ### 💻 Technical Skill Set
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![C++](https://shields.io) ![Java](https://shields.io) ![JavaScript](https://shields.io) |
-| **AI / Deep Learning** | ![PyTorch](https://shields.io) ![Intel OpenVINO](https://shields.io) ![Hugging Face](https://shields.io) `ML` `DL` `Neural Networks` |
-| **Frameworks & Web** | ![FastAPI](https://shields.io) ![Streamlit](https://shields.io) ![Tailwind CSS](https://shields.io) |
-| **Cloud & Backend** | ![Supabase](https://shields.io) ![PostgreSQL](https://shields.io) ![Git](https://shields.io) |
+*   **Programming & Frameworks:** Python, Streamlit, FastAPI, HTML5, CSS3, JavaScript, Java, C++
+*   **AI, ML & Computer Vision:** ML, DL, Neural Networks, Predictive Modeling, Facial Recognition (Dlib), Voice Verification (Resemblyzer), Intel OpenVINO, PyTorch, Hugging Face
+*   **Databases & Cloud Infrastructure:** Supabase, PostgreSQL, Git & GitHub
 
 ---
 
@@ -47,14 +40,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://vercel.app" alt="Lalith's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages Used" width="48%" />
-</div>
-
----
-
 ### ⚡ Fun Fact / Philosophy
 I believe in a **"Learning by Doing"** culture. Whether it is refining an algorithmic data structure or building complex neural architectures, I love deploying software that functions reliably out in the wild.
 
@@ -62,4 +47,4 @@ I believe in a **"Learning by Doing"** culture. Whether it is refining an algori
 
 ### 🌐 Connect With Me
 *   💼 **LinkedIn:** [LalithSai Dabbiru](https://linkedin.com)
-*   🐙 **GitHub Profile:** [@lalithsai-gif](https://github.com)
+*   🐙 **GitHub:** [Github](https://github.com)
