@@ -1,6 +1,6 @@
 # 🚀 Lalith Sai Dabbiru | Computer Science Engineer & AI Developer
 
-👋 Hi there! I am a Computer Science student at **IIIT (RGUKT) Nuzvid** (Class of 2029) who bridges the gap between top-tier academic excellence and real-world AI engineering execution. I specialize in building scalable software systems, deep learning optimizations, and full-stack AI applications.
+👋 Hi there! I am a Computer Science student at **IIIT (RGUKT) Nuzvid**  (Class of 2029) who bridges the gap between top-tier academic excellence and real-world AI engineering execution. I specialize in building scalable software systems, deep learning optimizations, and full-stack AI applications.
 
 ---
 
@@ -15,7 +15,7 @@
 ### 💻 Technical Skill Set
 
 *   **Programming & Frameworks:** Python, Streamlit, FastAPI, HTML5, CSS3, JavaScript, Java, C++
-*   **AI, ML & Computer Vision:** ML, DL, Neural Networks, Predictive Modeling, Facial Recognition (Dlib), Voice Verification (Resemblyzer), Intel OpenVINO, PyTorch, Hugging Face
+*   **AI, ML & Computer Vision:** ML, DL, Neural Networks, Predictive Modeling, Facial Recognition (Dlib), Voice Verification (Resemblyzer), PyTorch, Hugging Face
 *   **Databases & Cloud Infrastructure:** Supabase, PostgreSQL, Git & GitHub
 
 ---
